@@ -1,0 +1,13 @@
+name = "airtable-post-handler"
+type = "javascript"
+
+account_id = "df16a81afe5219d8eb4023a5ee5af16f"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-17"
+
+[vars]
+AIRTABLE_BASE_ID = "appSKSP6W1G5xYriF"
+AIRTABLE_TABLE_NAME = "Shelf"
+FORM_URL = "https://shelf-51v.pages.dev"
